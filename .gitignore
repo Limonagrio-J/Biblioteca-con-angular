@@ -1,0 +1,13 @@
+# Angular
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.angular/
+
+# .NET
+Backend/bin/
+Backend/obj/
+
+# Archivos sensibles
+.env
+.env.*
+!.env.example
