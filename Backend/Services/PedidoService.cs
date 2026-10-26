@@ -1,7 +1,7 @@
 using System.Data;
 using BibliotecaApi.Data;
 using BibliotecaApi.DTOs;
-using BibliotecaApi.models; // 👈 Ajustado a mayúscula por convención
+using BibliotecaApi.models; 
 using Microsoft.EntityFrameworkCore;
 
 namespace BibliotecaApi.Services
